@@ -2,7 +2,7 @@
 
 > Pixcall 素材管理工具的 HTML 文件预览插件
 
-Pixcall 官方插件，允许用户在 Pixcall 内直接预览 `.html` / `.htm` 文件，支持实时渲染、源码查看和脚本开关。
+Pixcall 插件，允许用户在 Pixcall 内直接预览 `.html` / `.htm` 文件，支持实时渲染、源码查看和脚本开关。
 
 ## ✨ 功能特性
 
