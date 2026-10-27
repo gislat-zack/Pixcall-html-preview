@@ -1,0 +1,23 @@
+{
+  "id": "pixcall-html-preview",
+  "name": "%name%",
+  "description": "%description%",
+  "version": "0.1.0",
+  "author": "Pixcall",
+  "homepage": "https://pixcall.com",
+  "icon": "icons/icon.png",
+  "categories": ["viewer"],
+  "minimum_core_version": "0.9.7",
+  "contributes": {
+    "viewers": [
+      {
+        "title": "%viewer_title%",
+        "entry": "index.html",
+        "file_types": ["text/html"],
+        "extensions": ["html", "htm"]
+      }
+    ]
+  },
+  "l10n": "./l10n",
+  "default_locale": "en"
+}

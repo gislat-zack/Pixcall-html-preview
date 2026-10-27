@@ -1,0 +1,17 @@
+{
+  "name": "HTML 檢視器",
+  "description": "一個範例外掛，在 Pixcall 中預覽 HTML 檔案",
+  "viewer_title": "HTML 預覽",
+  "viewer.fallback_title": "HTML 文件",
+  "viewer.waiting_context": "正在等待目前檔案上下文資訊...",
+  "viewer.missing_html_url": "沒有提供 HTML 檔案位址",
+  "viewer.loading": "正在載入 HTML 檔案...",
+  "viewer.failed_to_load": "載入 HTML 檔案失敗",
+  "viewer.retry": "重試",
+  "viewer.tab_preview": "預覽",
+  "viewer.tab_source": "原始碼",
+  "viewer.scripts_on": "腳本：開",
+  "viewer.scripts_off": "腳本：關",
+  "viewer.reload": "重新整理",
+  "viewer.close": "關閉"
+}

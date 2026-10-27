@@ -1,0 +1,17 @@
+{
+  "name": "HTML 查看器",
+  "description": "一个示例插件，在 Pixcall 中预览 HTML 文件",
+  "viewer_title": "HTML 预览",
+  "viewer.fallback_title": "HTML 文档",
+  "viewer.waiting_context": "正在等待当前文件上下文信息...",
+  "viewer.missing_html_url": "没有提供 HTML 文件地址",
+  "viewer.loading": "正在加载 HTML 文件...",
+  "viewer.failed_to_load": "加载 HTML 文件失败",
+  "viewer.retry": "重试",
+  "viewer.tab_preview": "预览",
+  "viewer.tab_source": "源码",
+  "viewer.scripts_on": "脚本：开",
+  "viewer.scripts_off": "脚本：关",
+  "viewer.reload": "刷新",
+  "viewer.close": "关闭"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "HTML Viewer",
+  "description": "A sample plugin that previews HTML files in Pixcall",
+  "viewer_title": "HTML Preview",
+  "viewer.fallback_title": "HTML Document",
+  "viewer.waiting_context": "Waiting for the current file context...",
+  "viewer.missing_html_url": "No HTML file URL provided",
+  "viewer.loading": "Loading HTML file...",
+  "viewer.failed_to_load": "Failed to load the HTML file",
+  "viewer.retry": "Retry",
+  "viewer.tab_preview": "Preview",
+  "viewer.tab_source": "Source",
+  "viewer.scripts_on": "Scripts: On",
+  "viewer.scripts_off": "Scripts: Off",
+  "viewer.reload": "Reload",
+  "viewer.close": "Close"
+}
